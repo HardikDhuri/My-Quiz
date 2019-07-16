@@ -1,21 +1,12 @@
-
-h1 {
-    color: red;
-    text-align: center;
-    }
+h1{
+  text-align: center;
+  border:black;
+  font-style: italic;
+}
 p {
-   color: magenta;
-   text-align: center;
-   }
-
-div {
-    background-color: blue;
-    width: 400px;
-    height: 500px;
-    margin: 30px;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-    font-size: 28px;
-    font-weight: bold;
-    border: 3px solid black;
+  text-align: center;
+  font-size: 25px;
+  border: black solid ;
+  font-style: italic;
+  text-decoration: underline;
 }
